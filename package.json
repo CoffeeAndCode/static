@@ -36,7 +36,7 @@
     "cssnano": "^3.7.4",
     "es6-promisify": "^5.0.0",
     "foreman": "^2.0.0",
-    "fs-extra": "^0.30.0",
+    "fs-extra": "^1.0.0",
     "glob": "^7.0.6",
     "handlebars": "^4.0.5",
     "metalsmith": "^2.2.0",
